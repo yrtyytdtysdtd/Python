@@ -1,0 +1,27 @@
+
+#ex 1 
+integer_var = 1488  
+float_var = 62.54
+string_var = "каит"
+list_var = [14, 88, 52]
+tuple_var = ("белый", "кошка")
+dict_var = {1: "очки", 3: "часы"}
+set_var = {1, 2, 3, 4}
+bool_var = False
+print(integer_var, float_var, string_var, list_var, tuple_var, dict_var, set_var, bool_var) 
+#ex 2 
+name = "Вика" 
+age = 17
+average_grade = 5.0 
+favorite_movies = ("ворон" "птичий короб" "Форост гант")
+personal_info = ("Слепцова", 1488, 5.0)
+skills = {"ногти_делать": 3}
+visited_countries = ("Россия", "Болгария")
+has_driver_license = ("нет") 
+#ex3
+CPU = ("I7 13700")
+RAM = ("16гб")
+internet_speed =("80мбт")
+list = [CPU, RAM, internet_speed]
+print(list)
+
